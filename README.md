@@ -16,8 +16,6 @@
 
 ![Home Screen](screenshots/image1.png)
 
-![Add Expense](screenshots/image2.png)
-
 ![Expense List](screenshots/image3.png)
 
 ![Total Calculation](screenshots/image4.png)
