@@ -13,7 +13,7 @@
 - SQLite
 
 ## Screenshots
-
+![https://github.com/FulberRenika/Task-1-Expense-Tracker-/blob/main/screenshots/image1.png?raw=true]
 
 ## Author
 Fulber Renika
